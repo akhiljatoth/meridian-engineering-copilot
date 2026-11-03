@@ -232,11 +232,9 @@ https://github.com/fastapi/fastapi
 
 Review the upstream project's licensing and attribution requirements when redistributing derived material.
 
-## Author
 
-**Babitha Banothu**
 
-GitHub: https://github.com/Babitha-Banothu
+
 
 ---
 
